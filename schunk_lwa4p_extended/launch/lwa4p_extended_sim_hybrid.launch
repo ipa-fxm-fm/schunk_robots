@@ -37,7 +37,9 @@
     
     <node ns="arm_controller" name="joint_trajectory_controller" pkg="cob_trajectory_controller" type="cob_trajectory_controller_sim" cwd="node" respawn="false" output="screen"/>
     
+<!--
     <node ns="arm_controller" name="cob_twist_controller_node" pkg="cob_twist_controller" type="cob_twist_controller_node" cwd="node" respawn="false" output="screen"/>
+-->
     
     
     
